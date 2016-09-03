@@ -1,0 +1,8 @@
+{
+    "settings": {
+        "key": "live_60932381_i0ur81bWJAcyshUTmMiupJlRDMgLfF",
+        "server": "rtmp://live-lhr.twitch.tv/app",
+        "service": "Twitch"
+    },
+    "type": "rtmp_common"
+}
