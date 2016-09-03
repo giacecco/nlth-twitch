@@ -1,0 +1,4 @@
+#!/bin/bash
+
+vboxmanage startvm "Windows 10 Pro"
+wmctrl -r "Windows 10 Pro [Running] - Oracle VM VirtualBox" -e 1,0,0,1280,1000
